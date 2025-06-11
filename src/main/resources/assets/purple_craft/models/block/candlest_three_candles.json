@@ -1,0 +1,7 @@
+{
+  "parent": "purple_craft:block/template_three_candles",
+  "textures": {
+    "all": "purple_craft:block/gray_candle",
+    "particle": "purple_craft:block/gray_candle"
+  }
+}
